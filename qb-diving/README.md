@@ -1,7 +1,7 @@
 # qb-diving
 Diving Script For QB-Core
 
-Fixed Vehicle save in sql Fixed Keys Getting
+Fixed boats save in sql Fixed Keys Getting
 
 dependency https://github.com/buntyverma69/qb-vehiclekeys For everything working fine !
 
